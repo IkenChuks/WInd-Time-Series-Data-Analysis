@@ -1,4 +1,4 @@
-# WInd-Time-Series-Data-Analysis
+# Wind-Time-Series-Data-Analysis
 This report is focused on the assessment of a site with properties deemed fairly conducive for the installation of a wind turbine by exploring the wind velocity parameter in that location over a period in May 2018 at a measurement frequency of 3 hours. The unique wind velocity parameters relating to the given geographical location are explored, forecasted statistically and through machine learning, correlated with other parameters and plotted. Finally, the results are chronologically interpreted with a view to objectively determine the siting of a wind turbine at the given coordinates.
 
 The data set used in the time series analysis was sourced from the Weather Research and Forecasting WRF model and specified a May 2018 time frame that included the parameters: surface temperature, surface pressure, wind speed, humidity, precipitation, soil temperature and soil moisture. Also included were several geographical coordinates where these parameters were recorded at 3-hour intervals for the month.
